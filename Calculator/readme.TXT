@@ -1,0 +1,1 @@
+Trivial and simplistic phase of a calculator, using inheritance
