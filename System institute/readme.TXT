@@ -1,0 +1,1 @@
+It is a web app using postgreSQL, Java Server Faces, a manual implementation (which simulates hibernate) and a CSS user interface.
