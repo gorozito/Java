@@ -1,0 +1,1 @@
+Election system using a simple user interface, but implementing the filters through inheritance and composition.
