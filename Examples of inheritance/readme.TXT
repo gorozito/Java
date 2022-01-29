@@ -1,0 +1,1 @@
+Inheritance examples, using only abstract classes, only interfaces and a mix between both.
