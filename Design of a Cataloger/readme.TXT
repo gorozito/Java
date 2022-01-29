@@ -1,0 +1,1 @@
+In this case, it's just about the design, but it's interesting since you can see a complete breakdown of the design using patterns: iterators, compositions, factory, filters, self-references.
