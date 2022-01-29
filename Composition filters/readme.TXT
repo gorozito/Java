@@ -1,0 +1,1 @@
+Example for the use of composition, inheritance, polymorphism and dynamic binding
