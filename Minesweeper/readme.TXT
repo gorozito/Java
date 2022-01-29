@@ -1,0 +1,2 @@
+Comprehensive project using AWT, and the postgreSQL database.
+As can be seen in the design image, inheritance, composition, the observer/observable pattern and the runnable pattern have been used for the implementation and synchronization of running threads.
